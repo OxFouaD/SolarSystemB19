@@ -14,6 +14,7 @@ public class solarSystem {
         xros.color="pink";
         xros.temp="24324kv";
         xros.size="0km";
+        xros.distance="5455545455km";
     }
 
 }
